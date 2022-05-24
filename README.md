@@ -1,9 +1,11 @@
-# Fabric Example Mod
+# Diamond Plus
 
-## Setup
+This Fabric mod granulates diamonds into diamond nuggets.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## Installation
 
-## License
+Download and move ``diamond_plus.jar`` into the ``mods/`` folder.
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## Diamond Nuggets
+
+![image](src/main/resources/assets/diamond_plus/textures/item/diamond_nugget.png)
