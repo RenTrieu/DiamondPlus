@@ -1,6 +1,6 @@
 # Diamond Plus
 
-This Fabric mod granulates diamonds into diamond nuggets.
+This simple Fabric mod granulates diamonds into diamond nuggets.
 
 ## Installation
 
@@ -8,4 +8,8 @@ Download and move ``diamond_plus.jar`` into the ``mods/`` folder.
 
 ## Diamond Nuggets
 
-![image](src/main/resources/assets/diamond_plus/textures/item/diamond_nugget.png)
+Diamond nuggets to diamonds behave in the same way iron nuggets do to iron 
+ingots. One diamond can be crafted into 9 diamond nuggets and 9 diamond 
+nuggets can be crafted into a diamond.
+
+![image](diamond_nuggets_recipe.png)
