@@ -4,7 +4,7 @@ This simple Fabric mod granulates diamonds into diamond nuggets.
 
 ## Installation
 
-Download and move ``diamond_plus.jar`` into the ``mods/`` folder.
+Download and move ``.jar`` file into the ``mods/`` folder.
 
 ## Diamond Nuggets
 
