@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
-  "version": "${version}",
+  "id": "diamond_plus",
+  "version": "1.0",
 
   "name": "Diamond Plus",
   "description": "Allows diamonds to be granulated into nuggets.",
@@ -14,16 +14,16 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/diamond_plus/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.DiamondPlus"
+      "rentrieu.diamond_plus.DiamondPlus"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "rentrieu.diamond_plus.mixins.json"
   ],
 
   "depends": {
